@@ -1,4 +1,4 @@
-
+//versión inicial
 public class Triangulo extends FiguraGeometrica {
 	private double a;
 	private double b;
@@ -26,4 +26,4 @@ public class Triangulo extends FiguraGeometrica {
 	public double semiPerimetro() {
 		return this.perimetro() / 2;
 	}
-}
+ }

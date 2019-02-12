@@ -1,4 +1,4 @@
-
+//versión inicial
 public class Circulo extends FiguraGeometrica {
 	private double radio;
 	//Constante pi
@@ -19,5 +19,4 @@ public class Circulo extends FiguraGeometrica {
 	public double perimetro() {
 		return radio * 2 * PI;
 	}
-
 }

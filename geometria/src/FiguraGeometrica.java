@@ -1,4 +1,4 @@
-
+//versión inicial
 public abstract class FiguraGeometrica {
 
 	protected String tipoFigura;
@@ -19,5 +19,4 @@ public abstract class FiguraGeometrica {
 	public void setTipoFigura(String tipoFigura) {
 		this.tipoFigura = tipoFigura;
 	}
-
 }
