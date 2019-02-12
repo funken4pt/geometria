@@ -1,4 +1,4 @@
-//versión inicial
+
 public class Triangulo_AMS extends FiguraGeometrica_AMS {
 	/**
 	 * @param triangulo_AMS

@@ -1,4 +1,4 @@
-//versión inicial
+
 public abstract class FiguraGeometrica_AMS {
 
 	protected String tipoFigura;

@@ -1,4 +1,4 @@
-//versión inicial
+
 public class Rectangulo_AMS extends FiguraGeometrica_AMS {
 	private double l1;
 	private double l2;

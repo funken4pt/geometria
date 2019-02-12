@@ -1,4 +1,4 @@
-//versión inicial
+
 public class Circulo_AMS extends FiguraGeometrica_AMS {
 	private double radio;
 	//Constante pi
@@ -7,6 +7,8 @@ public class Circulo_AMS extends FiguraGeometrica_AMS {
 	public Circulo_AMS(double r, String tipoFigura) {
 		super(tipoFigura);
 		radio = r;
+		radio= (double) Math.abs(r);
+		
 	}
 
 	@Override
